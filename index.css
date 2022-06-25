@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    /* background-color: antiquewhite; */
+}
+img{
+    background-image: url("sunset.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+   
+}
+h1{
+    color: gold;
+    text-align: center;
+    background-color:black;
+}
+.subdiv{
+    padding: 10px;
+    border-radius: 10px;
+    /* background-color:salmon; */
+    width: 500px;
+    position: absolute;
+    top: 290px;
+    left: 430px;
+}
+.button{
+    display: flex;
+    justify-content:center;
+}
+.btn2{
+    margin-right: 30px;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #000000;
+    border: 0px;
+    padding: 10px 20px 10px 20px;
+}   
+.btn3{
+    margin-right: 30px;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #000000;
+    border: 0px;
+    padding: 10px 20px 10px 20px;
+}
+.btn{
+    border: 0px;
+    margin-right: 30px;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #000000;
+    padding: 10px 20px 10px 20px;
+}
+
+.div1{
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: goldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border-style: double;
+    margin-left: 140px;
+    margin-bottom: 15px;
+}
